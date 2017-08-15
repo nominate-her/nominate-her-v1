@@ -3,5 +3,11 @@ This is a is a collaborative list of awards that women in tech could get nominat
 
 # List of Awards
 
+## ACM Grace Murray Hopper Award
+[ACM Grace Murray Hopper Award](https://awards.acm.org/hopper/nominations) nominations close January 15, 2018. 
+
+## 50 Most Powerful Women in Technology Awards 
+[50 Most Powerful Women in Technology Awards ](http://top50tech.org/2018/) nominations are due December 1, 2017.
+
 # Help me Build this List
-Submit a pull request to help me build this list 
+Pull requests are highly encoraged to help me build this list. 
