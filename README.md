@@ -2,6 +2,9 @@ This is a collaborative list of awards that women in tech could get nominated fo
 
 # List of Awards
 
+## Timmys
+[The Timmy Awards](https://app.reviewr.com/ms_login?ret=%2Fmslanding%3Fsource%3Dcompetitor%26evtid%3D2654296&evtid=2654296&editing=true) by Tech in Motion is an awards ceremony recognizing some of the best tech professionals in the DC-Metro Area. Nominations are due August 18th. 
+
 ## Tech Week Awards
 [Tech Week Awards](http://techweek.com/tw100/) nominations for NYC close on August 18, 2017, nominations for Dallas close on September 1, 2017, and nominations for LA close on September 15, 2017.
 
