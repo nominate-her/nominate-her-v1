@@ -27,5 +27,8 @@ Looking for folks under 30 years of age who are social entrepreneurs, which mean
 ## DCA Live: The New Power Women of DC Tech
 [DCA Live: The New Power Women of DC Tech](http://dca-live.com/nominate) nominations close September 15, 2017. Additional award categories available; nominations due on a rolling basis. See nomination schedule for full details.
 
+## Python Software Foundation Fellow Membership
+[Python Software Foundation Fellow Membership](https://www.python.org/psf/fellows/) nominations are quarterly; 3rd Quarter nomination period closes August 20, 2017. 
+
 # Help me Build this List
 Pull requests are highly encouraged to help me build this list. Email me at jessica.garson@gmail.com if you have ideas or suggestions.  
