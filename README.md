@@ -8,9 +8,6 @@ This is a collaborative list of awards that women in tech could get nominated fo
 ## 50 Most Powerful Women in Technology Awards
 [50 Most Powerful Women in Technology Awards ](http://top50tech.org/2018/) nominations are due December 1, 2017.
 
-## Forbes 30 Under 30 Social Entrepreneurs
-Looking for folks under 30 years of age who are social entrepreneurs, which means they run an organization that does good in the world while also turning a profit. To nominate someone, email me at jessica.garson@gmail.com with the name of the person, email of the person, name of the company and a very brief bio, and I'll send it the person who reached out to me about this opportunity.
-
 ## Women in Technology Leadership Awards
 [Women in Technology Leadership Awards](http://www.womenintechnology.org/leadership-awards) 
 2017's nomination period has passed; nomination period is typically open in early Spring.
