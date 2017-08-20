@@ -24,8 +24,5 @@ Looking for folks under 30 years of age who are social entrepreneurs, which mean
 ## Python Software Foundation Fellow Membership
 [Python Software Foundation Fellow Membership](https://www.python.org/psf/fellows/) nominations are quarterly; 3rd Quarter nomination period closes August 20, 2017. 
 
-## Tech Week Awards
-[Tech Week Awards](http://techweek.com/tw100/) nominations for Dallas close on September 1, 2017, and nominations for LA close on September 15, 2017.
-
 # Help me Build this List
 Pull requests are highly encouraged to help me build this list. Email me at jessica.garson@gmail.com if you have ideas or suggestions.  
