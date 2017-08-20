@@ -1,12 +1,6 @@
-This is a collaborative list of awards that women in tech could get nominated for. I won an award once, and it was a pivotal moment for me in my career. I would like more women to experience this feeling!
+This is a collaborative list of awards that women in tech could get nominated for. I won an award once, and it was a pivotal moment for me in my career. I would like more women to experience this feeling. 
 
 # List of Awards
-
-## Timmys
-[The Timmy Awards](https://app.reviewr.com/ms_login?ret=%2Fmslanding%3Fsource%3Dcompetitor%26evtid%3D2654296&evtid=2654296&editing=true) by Tech in Motion is an awards ceremony recognizing some of the best tech professionals and places to work in the DC-Metro Area. Categories include best tech work culture, best tech manager, best tech startup and best tech workplace for diversity nominations are due August 18th. 
-
-## Tech Week Awards
-[Tech Week Awards](http://techweek.com/tw100/) nominations for NYC close on August 18, 2017, nominations for Dallas close on September 1, 2017, and nominations for LA close on September 15, 2017.
 
 ## ACM Grace Murray Hopper Award
 [ACM Grace Murray Hopper Award](https://awards.acm.org/hopper/nominations) nominations close on January 15, 2018.
@@ -29,6 +23,9 @@ Looking for folks under 30 years of age who are social entrepreneurs, which mean
 
 ## Python Software Foundation Fellow Membership
 [Python Software Foundation Fellow Membership](https://www.python.org/psf/fellows/) nominations are quarterly; 3rd Quarter nomination period closes August 20, 2017. 
+
+## Tech Week Awards
+[Tech Week Awards](http://techweek.com/tw100/) nominations for Dallas close on September 1, 2017, and nominations for LA close on September 15, 2017.
 
 # Help me Build this List
 Pull requests are highly encouraged to help me build this list. Email me at jessica.garson@gmail.com if you have ideas or suggestions.  
