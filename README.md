@@ -21,5 +21,8 @@ This is a collaborative list of awards that women in tech could get nominated fo
 ## Python Software Foundation Fellow Membership
 [Python Software Foundation Fellow Membership](https://www.python.org/psf/fellows/) nominations are quarterly; 3rd Quarter nomination period closes August 20, 2017. 
 
+## Recode 100:
+[Recode 100](https://www.recode.net/2017/9/27/16350668/recode-100-nominate-top-tech-business-people-who-matter-2017) nominations close October 16, 2017 at 10am.
+
 # Help me Build this List
 Pull requests are highly encouraged to help me build this list. Email me at jessica.garson@gmail.com if you have ideas or suggestions.  
