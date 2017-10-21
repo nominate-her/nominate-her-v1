@@ -2,6 +2,9 @@ This is a collaborative list of awards that women in tech could get nominated fo
 
 # List of Awards
 
+## Red Hat Women in Open Source
+[Red Hat Women in Open Source](https://www.redhat.com/en/about/press-releases/nominations-open-2018-red-hat-women-open-source-awards) Nominations close Oct. 30, 2017.
+
 ## ACM Grace Murray Hopper Award
 [ACM Grace Murray Hopper Award](https://awards.acm.org/hopper/nominations) nominations close on January 15, 2018.
 
@@ -19,13 +22,13 @@ This is a collaborative list of awards that women in tech could get nominated fo
 [DCA Live: The New Power Women of DC Tech](http://dca-live.com/nominate) nominations close September 15, 2017. Additional award categories available; nominations due on a rolling basis. See nomination schedule for full details.
 
 ## Python Software Foundation Fellow Membership
-[Python Software Foundation Fellow Membership](https://www.python.org/psf/fellows/) nominations are quarterly; 3rd Quarter nomination period closes August 20, 2017. 
+[Python Software Foundation Fellow Membership](https://www.python.org/psf/fellows/) 
+Description: Nominations are quarterly; 
+Deadline: November 20, 2017. 
 
 ## Recode 100:
 [Recode 100](https://www.recode.net/2017/9/27/16350668/recode-100-nominate-top-tech-business-people-who-matter-2017) nominations close October 16, 2017 at 10am.
 
-## Red Hat Women in Open Source
-[Red Hat Women in Open Source](https://www.redhat.com/en/about/press-releases/nominations-open-2018-red-hat-women-open-source-awards) Nominations close Oct. 30, 2017.
 
 # Help me Build this List
 Pull requests are highly encouraged to help me build this list. Email me at jessica.garson@gmail.com if you have ideas or suggestions.  
