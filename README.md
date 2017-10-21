@@ -36,7 +36,7 @@ Deadline: December 1, 2017
 Eligibility: The Grace Murray Hopper Award recognizes the outstanding young computer professional of the year, selected on the basis of a single recent major technical or service contribution.  The candidate must have been 35 years of age or less at the time the qualifying contribution was made.
 Deadline: January 15, 2018
 
-##Closed
+## Closed
 
 ## Recode 100:
 [Recode 100](https://www.recode.net/2017/9/27/16350668/recode-100-nominate-top-tech-business-people-who-matter-2017) nominations close October 16, 2017 at 10am.
