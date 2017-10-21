@@ -10,11 +10,18 @@ Deadline: October 30, 2017.
 ## Python Software Foundation Fellow Membership
 [Python Software Foundation Fellow Membership](https://www.python.org/psf/fellows/) 
 Description: Nominations are quarterly; 
-Eligibility: For those who have served the Python community by creating and/or maintaining various engineering/design contributions
-Deadline: November 20, 2017. 
+>Eligibility: For those who have served the Python community by creating and/or maintaining various engineering/design contributions
+>Deadline: November 20, 2017. 
 
 ## 50 Most Powerful Women in Technology Awards
-[50 Most Powerful Women in Technology Awards ](http://top50tech.org/2018/) nominations are due December 1, 2017.
+[50 Most Powerful Women in Technology Awards ](http://top50tech.org/2018/)  
+Eligilbility: Top leader in her organization and profession
+Directly contributes to business growth or strategic direction of the organization
+Maintains a record of accomplishments in areas of expertise
+Effective role model who inspires other women and is active in mentoring the next generation of female professionals in the industry
+Operates with the highest integrity and ethical behavior
+Demonstrates a commitment to corporate citizenship
+Deadline: December 1, 2017.
 
 ## Women in Technology Leadership Awards
 [Women in Technology Leadership Awards](http://www.womenintechnology.org/leadership-awards) 
