@@ -7,6 +7,11 @@ This is a collaborative list of awards that women in tech could get nominated fo
 Eligibility: Nominations for this year's awards will be accepted for two categories: Academic, open to women who are enrolled full-time, earning 12 or more credit hours, in college or university; and Community, open to all other women contributing to projects related to open source.
 Deadline: October 30, 2017.
 
+## Technically DC Awards
+[Technically DC Awards](https://technical.ly/dc/2017/10/11/nominate-technically-dc-awards-2017/)
+Eligibility: Multiple categories including Technologist of the Year
+Deadline: November 3, 2017
+
 ## Python Software Foundation Fellow Membership
 [Python Software Foundation Fellow Membership](https://www.python.org/psf/fellows/) 
 Description: Nominations are quarterly; 
